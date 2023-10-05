@@ -1,0 +1,15 @@
+/home/onuryilmazo/Desktop/MVC/Store/Repositories/obj/Debug/net7.0/Repositories.csproj.AssemblyReference.cache
+/home/onuryilmazo/Desktop/MVC/Store/Repositories/obj/Debug/net7.0/Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/home/onuryilmazo/Desktop/MVC/Store/Repositories/obj/Debug/net7.0/Repositories.AssemblyInfoInputs.cache
+/home/onuryilmazo/Desktop/MVC/Store/Repositories/obj/Debug/net7.0/Repositories.AssemblyInfo.cs
+/home/onuryilmazo/Desktop/MVC/Store/Repositories/obj/Debug/net7.0/Repositories.csproj.CoreCompileInputs.cache
+/home/onuryilmazo/Desktop/MVC/Store/Repositories/bin/Debug/net7.0/Repositories.deps.json
+/home/onuryilmazo/Desktop/MVC/Store/Repositories/bin/Debug/net7.0/Repositories.dll
+/home/onuryilmazo/Desktop/MVC/Store/Repositories/bin/Debug/net7.0/Repositories.pdb
+/home/onuryilmazo/Desktop/MVC/Store/Repositories/bin/Debug/net7.0/Entities.dll
+/home/onuryilmazo/Desktop/MVC/Store/Repositories/bin/Debug/net7.0/Entities.pdb
+/home/onuryilmazo/Desktop/MVC/Store/Repositories/obj/Debug/net7.0/Repositories.csproj.CopyComplete
+/home/onuryilmazo/Desktop/MVC/Store/Repositories/obj/Debug/net7.0/Repositories.dll
+/home/onuryilmazo/Desktop/MVC/Store/Repositories/obj/Debug/net7.0/refint/Repositories.dll
+/home/onuryilmazo/Desktop/MVC/Store/Repositories/obj/Debug/net7.0/Repositories.pdb
+/home/onuryilmazo/Desktop/MVC/Store/Repositories/obj/Debug/net7.0/ref/Repositories.dll

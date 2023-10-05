@@ -1,0 +1,4 @@
+/home/onuryilmazo/Desktop/MVC/obj/Debug/net7.0/MVC.GeneratedMSBuildEditorConfig.editorconfig
+/home/onuryilmazo/Desktop/MVC/obj/Debug/net7.0/MVC.AssemblyInfoInputs.cache
+/home/onuryilmazo/Desktop/MVC/obj/Debug/net7.0/MVC.AssemblyInfo.cs
+/home/onuryilmazo/Desktop/MVC/obj/Debug/net7.0/MVC.csproj.CoreCompileInputs.cache
