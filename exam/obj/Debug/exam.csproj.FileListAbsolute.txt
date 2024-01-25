@@ -1,0 +1,17 @@
+C:\Users\CALLISNADO\source\repos\exam\bin\Debug\exam.exe.config
+C:\Users\CALLISNADO\source\repos\exam\bin\Debug\exam.exe
+C:\Users\CALLISNADO\source\repos\exam\bin\Debug\exam.pdb
+C:\Users\CALLISNADO\source\repos\exam\bin\Debug\Bunifu_UI_v1.52 (2).dll
+C:\Users\CALLISNADO\source\repos\exam\bin\Debug\Guna.UI.dll
+C:\Users\CALLISNADO\source\repos\exam\obj\Debug\exam.csproj.AssemblyReference.cache
+C:\Users\CALLISNADO\source\repos\exam\obj\Debug\exam.Anasayfa.resources
+C:\Users\CALLISNADO\source\repos\exam\obj\Debug\exam.Hasta.resources
+C:\Users\CALLISNADO\source\repos\exam\obj\Debug\exam.Properties.Resources.resources
+C:\Users\CALLISNADO\source\repos\exam\obj\Debug\exam.Randevu.resources
+C:\Users\CALLISNADO\source\repos\exam\obj\Debug\exam.Receteler.resources
+C:\Users\CALLISNADO\source\repos\exam\obj\Debug\exam.Tedavi.resources
+C:\Users\CALLISNADO\source\repos\exam\obj\Debug\exam.csproj.GenerateResource.cache
+C:\Users\CALLISNADO\source\repos\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\CALLISNADO\source\repos\exam\obj\Debug\exam.csproj.CopyComplete
+C:\Users\CALLISNADO\source\repos\exam\obj\Debug\exam.exe
+C:\Users\CALLISNADO\source\repos\exam\obj\Debug\exam.pdb
